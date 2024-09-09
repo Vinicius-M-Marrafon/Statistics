@@ -1,2 +1,3 @@
-# Statistics
-Statistics Studies 
+## Statistics
+
+#### Statistics Studies for Data Analysis.  
